@@ -11,7 +11,7 @@ A custom relation for when stock relations aren't enough.
 The recommended way to install is with [composer](http://getcomposer.org/):
 
 ```shell
-composer require johnnyfreeman/laravel-custom-relation
+composer require tranghaviet/laravel-custom-relation
 ```
 
 ## Example
